@@ -1,0 +1,8 @@
+/.lake/
+.lake/
+.lean/
+*.olean
+*.ilean
+*.c
+/build/
+*.log
