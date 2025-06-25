@@ -1,0 +1,10 @@
+name = "emergent"
+version = "0.1.0"
+defaultTargets = ["emergent"]
+
+[[lean_lib]]
+name = "Emergent"
+
+[[lean_exe]]
+name = "emergent"
+root = "Main"
